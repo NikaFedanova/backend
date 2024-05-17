@@ -28,7 +28,7 @@ if(isset($_GET['search'])) {
 <script async src="https://cse.google.com/cse.js?cx=420e075e70e384b6f">
 </script>
 <div class="gcse-search"></div>
-<h2>Browser by Bohdan</h2>
+<h2>My Browser</h2>
 <form method="GET" action="index.php">
     <label for="search">Search:</label>
     <input type="text" id="search" name="search" value=""><br><br>
